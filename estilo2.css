@@ -1,0 +1,36 @@
+#fondo{
+	background-color: lightgray; 
+}
+
+#header{
+	text-align: center;
+	height: 130px; 
+	background: #080808; 
+	color: #ccc; 
+	margin: 0 0 30px; 
+}
+
+#nav {
+	line-height: 30px;
+	background-color:#eeeeee;
+	height:700px;
+	width:200px;
+	float:left;
+	padding:10px;
+}
+
+#contenido{
+	float: top;
+	padding-left: 700px;
+}
+
+#picture{
+	align-items: center;
+	float: left;
+	padding-left: 30px;
+}
+
+#Text{
+	padding-left: 500px;
+	size: 100px;
+}
